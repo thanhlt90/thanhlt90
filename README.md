@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Le Trung Thanh</h1>
+<h1 align="center">Hi 👋, I'm Thanh Lee</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanhlt90&label=Profile%20views&color=0e75b6&style=flat" alt="thanhlt90" /> </p>
 
 - 🌱 I’m currently learning **Vuejs**
 
-- 👯 I’m looking to collaborate on [Vuejs](vuejs.com)
+- 👯 I’m looking to collaborate on [Vuejs](https://vuejs.org/)
 
-- 👨‍💻 All of my projects are available at [thanhlt90.github.io](thanhlt90.github.io)
+- 👨‍💻 All of my projects are available at [thanhlt90.github.io](https://thanhlt90.github.io)
 
 - 📝 I regularly write articles on [thanhlt90.github.io](thanhlt90.github.io)
 
